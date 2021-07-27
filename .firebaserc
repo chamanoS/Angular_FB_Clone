@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fb-clone-12da8": {
+      "hosting": {
+        "FBClone": [
+          "fb-clone-12da8"
+        ]
+      }
+    }
+  }
+}
